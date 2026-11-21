@@ -1,7 +1,7 @@
 # Hi, I'm Phanuel 👋
 
 **Junior Software Engineer · AI & Networking Enthusiast**
-Based in Bandjoun / Bafoussam, Cameroon 🇨🇲
+Based in Yaoundé, Cameroon 🇨🇲
 
 I build practical software and network solutions: tools that run offline, automate repetitive work and solve real problems for real users. DUT in Computer Science & Networks (Mention Assez Bien), with hands-on experience from a professional internship and freelance work since 2023.
 
@@ -23,8 +23,8 @@ I build practical software and network solutions: tools that run offline, automa
 
 ## 🛠 Tech
 
-**Daily:** Python · Linux (Ubuntu / Kali) · Git · HTML / CSS / JavaScript · Docker · MikroTik · Cisco Packet Tracer
-**Exploring:** React · Next.js · Node.js · PostgreSQL · ethical hacking (Root-Me) · local AI (Ollama)
+- **Daily:** Python · Linux (Ubuntu / Kali) · Git · HTML / CSS / JavaScript · Docker · MikroTik · Cisco Packet Tracer
+- **Exploring:** React · Next.js · Node.js · PostgreSQL · ethical hacking (Root-Me) · local AI (Ollama)
 
 ## 🎯 Right now
 
